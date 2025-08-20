@@ -14,7 +14,7 @@ Estou em busca de uma oportunidade na área de tecnologia para aplicar meus conh
 ---
 
 ## 🎯 Objetivos
-- Construir carreira em **tecnologia** (bioinformática, IA, análise de dados biológicos).  
+- Construir carreira em **tecnologia** (bioinformática, IA, análise de dados).  
 - Desenvolver experiência prática em **projetos de software** e **pesquisa aplicada**.  
 - Contribuir para equipes multidisciplinares com entusiasmo, dedicação e aprendizado contínuo.  
 
@@ -54,7 +54,7 @@ Estou em busca de uma oportunidade na área de tecnologia para aplicar meus conh
 - 🌍 **Inglês fluente - formação pela Wizard, com certificado de proficiência Pearson**  
 - 💻 Conhecimentos de informática  
 - 🗣️ Facilidade em comunicação  
-- 👩‍💻 Em aprendizado contínuo em **programação (Python, HTML, CSS, JS)**  
+- 👩‍💻 Em aprendizado contínuo em **programação (Python, HTML, CSS, JS, Java, C)**  
 
 ---
 
