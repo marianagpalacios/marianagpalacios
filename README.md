@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **bioinformática, ciência de dados e inteligência artificial**, e atualmente estou desenvolvendo um **projeto de iniciação científica em Python focado em visão computacional e reconhecimento de objetos**.  
+Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **bioinformática, ciência de dados e inteligência artificial**, e atualmente estou desenvolvendo um **projeto de iniciação científica em Python focado em visão computacional e reconhecimento de objetos**. Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. 
 
 Estou em busca da minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, aprender na prática e contribuir com projetos inovadores.
 
@@ -45,7 +45,7 @@ Estou em busca da minha primeira oportunidade na área de tecnologia para aplica
 ---
 
 ## 🛠️ Habilidades
-- 🌍 **Inglês fluente**  
+- 🌍 **Inglês fluente - formação pela Wizard, com certificado de proficiência Pearson**  
 - 💻 Conhecimentos de informática  
 - 🗣️ Facilidade em comunicação  
 - 👩‍💻 Em aprendizado contínuo em **programação (Python, HTML, CSS, JS)**  
