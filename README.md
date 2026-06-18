@@ -7,14 +7,14 @@
 ---
 
 ## 🚀 Sobre mim
-Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **bioinformática, ciência de dados e inteligência artificial**, e atualmente estou desenvolvendo um **projeto de iniciação científica em Python focado em visão computacional e reconhecimento de objetos**. Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. Atualmente, atuo no setor de **redes da COGETI – UTFPR Cornélio Procópio**, onde desenvolvo experiência prática em infraestrutura e suporte de TI.
+Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **bioinformática, ciência de dados e inteligência artificial**. Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. Atualmente, atuo no setor de **redes da COGETI – UTFPR Cornélio Procópio**, onde desenvolvo experiência prática em infraestrutura e suporte de TI.
 
 Estou em busca de uma oportunidade na área de tecnologia para aplicar meus conhecimentos, aprender na prática e contribuir com projetos inovadores.
 
 ---
 
 ## 🎯 Objetivos
-- Construir carreira em **tecnologia** (bioinformática, IA, análise de dados).  
+- Construir carreira em **tecnologia**.  
 - Desenvolver experiência prática em **projetos de software** e **pesquisa aplicada**.  
 - Contribuir para equipes multidisciplinares com entusiasmo, dedicação e aprendizado contínuo.  
 
@@ -27,7 +27,7 @@ Estou em busca de uma oportunidade na área de tecnologia para aplicar meus conh
   - Monitoramento e manutenção de sistemas de conectividade  
   - Apoio em demandas de TI para a comunidade acadêmica
 
-- **Projeto de Iniciação Científica (2025 – em andamento)**  
+- **Projeto de Iniciação Científica (2025)**  
   Desenvolvimento em **Python** na área de **visão computacional e reconhecimento de objetos**.  
 
 - **Projetos em Robótica Sustentável (Ensino Médio)**  
