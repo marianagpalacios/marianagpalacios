@@ -41,7 +41,7 @@ Atuação na Coordenadoria de Gestão de Tecnologia da Informação (COGETI) da 
 * Aplicação de conhecimentos em PHP no desenvolvimento web
 * Aprendizado contínuo de tecnologias e boas práticas de desenvolvimento de software
 
-### Projeto Meninas Digitais UTFPR-CP (2025 – atual)
+### Projeto Meninas Digitais UTFPR-CP (2026 – atual)
 
 Projeto de extensão voltado ao incentivo da participação feminina nas áreas de CTEM.
 
