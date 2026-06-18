@@ -109,5 +109,4 @@ Concluído em 2023
 ## 📫 Contato
 
 * GitHub: https://github.com/marianagpalacios
-* LinkedIn: *(adicione aqui seu perfil, se desejar)*
 * E-mail: **[marianapalacios@alunos.utfpr.edu.br](mailto:marianapalacios@alunos.utfpr.edu.br)**
