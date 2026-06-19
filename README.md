@@ -10,7 +10,7 @@
 
 Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **ciência de dados, inteligência artificial, bioinformática e pesquisa científica**. Ao longo da minha trajetória, participei de **projetos de iniciação científica**, desenvolvendo experiência em investigação, desenvolvimento tecnológico e produção acadêmica.
 
-Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. Atualmente, atuo na **COGETI – UTFPR Cornélio Procópio**, onde desenvolvo experiência prática tanto em **infraestrutura e suporte de redes** quanto em **desenvolvimento web para sistemas internos da universidade**, aplicando conhecimentos em **PHP** e ampliando minha experiência em desenvolvimento de software.
+Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. Atualmente, atuo na **COGETI – UTFPR Cornélio Procópio**, onde desenvolvo experiência prática tanto em **infraestrutura e suporte de redes** quanto em **desenvolvimento web para sistemas internos da universidade**, aplicando conhecimentos em **PHP**, **HTML** e **CSS** e ampliando minha experiência em desenvolvimento de software.
 
 Também participo do projeto de extensão **Meninas Digitais UTFPR-CP**, atuando como **mentora e organizadora de oficinas de robótica**, incentivando a participação de meninas e mulheres nas áreas de Ciência, Tecnologia, Engenharia e Matemática (CTEM).
 
