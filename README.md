@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **ciência de dados, inteligência artificial, bioinformática e pesquisa científica**. Ao longo da minha trajetória, participei de **projetos de iniciação científica**, desenvolvendo experiência em investigação, desenvolvimento tecnológico e produção acadêmica.
+Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **ciência de dados, inteligência artificial, bioinformática e pesquisa científica**. Atuei como bolsista de Iniciação Científica (CNPq) na UTFPR, desenvolvendo pesquisas em visão computacional, inteligência artificial e aprendizado de máquina, com foco no reconhecimento automático de Equipamentos de Proteção Individual (EPIs) utilizando redes neurais artificiais e convolucionais.
 
 Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. Atualmente, atuo na **COGETI – UTFPR Cornélio Procópio**, onde desenvolvo experiência prática tanto em **infraestrutura e suporte de redes** quanto em **desenvolvimento web para sistemas internos da universidade**, aplicando conhecimentos em **PHP**, **HTML** e **CSS** e ampliando minha experiência em desenvolvimento de software.
 
@@ -50,9 +50,17 @@ Projeto de extensão voltado ao incentivo da participação feminina nas áreas 
 * Apoio em atividades de divulgação científica e tecnológica
 * Participação em ações de extensão junto à comunidade
 
-### Projeto de Iniciação Científica (2025)
+### Projeto de Iniciação Científica – Bolsista CNPq (2025)
 
-Desenvolvimento em **Python** na área de **visão computacional e reconhecimento de objetos**.
+Desenvolvimento de um sistema inteligente para **reconhecimento automático de Equipamentos de Proteção Individual (EPIs)** utilizando **visão computacional** e **redes neurais artificiais**, no âmbito do Programa de Iniciação Científica da UTFPR.
+
+Principais atividades:
+* Desenvolvimento de modelos em **Python** utilizando **TensorFlow/Keras** e **OpenCV**;
+* Comparação entre arquiteturas **ANN (Artificial Neural Networks)** e **CNN (Convolutional Neural Networks)** para classificação de imagens;
+* Pré-processamento e organização de conjuntos de dados para treinamento e validação dos modelos;
+* Avaliação de desempenho por meio de métricas como acurácia, loss e matrizes de confusão;
+* Pesquisa voltada ao reconhecimento de EPIs em trabalhadores da construção civil, alcançando **97,22% de acurácia** com a melhor arquitetura convolucional;
+* Apresentação dos resultados no **SICITE – Seminário de Iniciação Científica e Tecnológica da UTFPR**.
 
 ### Projetos em Robótica Sustentável (Ensino Médio)
 
