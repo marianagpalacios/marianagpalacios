@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** na UTFPR (Universidade Tecnológica Federal do Paraná)
 📍 Cornélio Procópio - PR, Brasil
-📧 [marianapalacios@alunos.utfpr.edu.br](mailto:marianapalacios@alunos.utfpr.edu.br) | 📱 (43) 99692-9461
+📧 [marianagp294@gmail.com](mailto:marianagp294@gmail.com) | 📱 (43) 99692-9461
 
 ---
 
