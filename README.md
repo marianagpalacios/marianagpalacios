@@ -92,7 +92,6 @@ Contribuições com revisão de conteúdo, estudos teóricos e correções.
 * 💻 Infraestrutura e suporte de redes
 * 🐍 Python
 * ☕ Java
-* 🐘 PHP (em aprendizado e aplicação prática em sistemas internos)
 * 🌐 HTML, CSS e JavaScript
 * 🔬 Pesquisa científica e iniciação científica
 * 🤖 Robótica educacional
