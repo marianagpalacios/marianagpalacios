@@ -1,16 +1,20 @@
 # 👩‍💻 Mariana Gasparotto Palácios
 
-🎓 Estudante de **Engenharia de Software** na UTFPR (Universidade Tecnológica Federal do Paraná)
-📍 Cornélio Procópio - PR, Brasil
-📧 [marianagp294@gmail.com](mailto:marianagp294@gmail.com) | 📱 (43) 99692-9461
+🎓 Estudante de Engenharia de Software — UTFPR  
+💻 Desenvolvedora em formação | Engenharia de Dados | Bioinformática | Inteligência Artificial  
+📍 Cornélio Procópio – PR, Brasil
+
+📧 marianagp294@gmail.com
+* Currículo Lattes: [https://github.com/marianagpalacios](https://lattes.cnpq.br/7007127332359292)
+* LinkedIn: www.linkedin.com/in/mariana-gasparotto-palácios-8190012ba
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software, apaixonada por tecnologia e pela forma como ela pode transformar a ciência, a educação e a sociedade. Tenho grande interesse em **ciência de dados, inteligência artificial, bioinformática e pesquisa científica**. Atuei como bolsista de Iniciação Científica (CNPq) na UTFPR, desenvolvendo pesquisas em visão computacional, inteligência artificial e aprendizado de máquina, com foco no reconhecimento automático de Equipamentos de Proteção Individual (EPIs) utilizando redes neurais artificiais e convolucionais.
+Sou estudante de Engenharia de Software, com interesse em **ciência de dados, inteligência artificial, bioinformática e pesquisa científica**. Atuei como bolsista de Iniciação Científica (CNPq) na UTFPR, desenvolvendo pesquisas em visão computacional, inteligência artificial e aprendizado de máquina, com foco no reconhecimento automático de Equipamentos de Proteção Individual (EPIs) utilizando redes neurais artificiais e convolucionais, resultando em publicação científica e apresentação de trabalhos no SICITE.
 
-Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. Atualmente, atuo na **COGETI – UTFPR Cornélio Procópio**, onde desenvolvo experiência prática tanto em **infraestrutura e suporte de redes** quanto em **desenvolvimento web para sistemas internos da universidade**, aplicando conhecimentos em **PHP**, **HTML** e **CSS** e ampliando minha experiência em desenvolvimento de software.
+Tenho **inglês fluente (formação pela Wizard, certificado de proficiência Pearson)**, o que me permite estudar, comunicar e colaborar em projetos internacionais. Atualmente, atuo na **COGETI – UTFPR Cornélio Procópio**, onde desenvolvo experiência práticaem infraestrutura de redes, administração de ambientes computacionais e desenvolvimento de sistemas internos, ampliando minha experiência em desenvolvimento de software.
 
 Também participo do projeto de extensão **Meninas Digitais UTFPR-CP**, atuando como **mentora e organizadora de oficinas de robótica**, incentivando a participação de meninas e mulheres nas áreas de Ciência, Tecnologia, Engenharia e Matemática (CTEM).
 
@@ -25,6 +29,19 @@ Estou em busca de oportunidades para aplicar meus conhecimentos, aprender contin
 * Construir carreira em **tecnologia**.
 * Desenvolver experiência prática em **projetos de software**, **pesquisa aplicada** e **extensão universitária**.
 * Contribuir para equipes multidisciplinares com entusiasmo, dedicação e aprendizado contínuo.
+
+---
+
+## 🔬 Áreas de Interesse
+
+- Engenharia de Dados
+- Bioinformática
+- Inteligência Artificial
+- Ciência de Dados
+- Desenvolvimento Back-end
+- Computação aplicada à Saúde
+- Big Data
+- Machine Learning
 
 ---
 
@@ -88,14 +105,39 @@ Contribuições com revisão de conteúdo, estudos teóricos e correções.
 
 ## 🛠️ Habilidades
 
-* 🌍 Inglês fluente (Wizard + Certificação Pearson)
-* 💻 Infraestrutura e suporte de redes
-* 🐍 Python
-* ☕ Java
-* 🌐 HTML, CSS e JavaScript
-* 🔬 Pesquisa científica e iniciação científica
-* 🤖 Robótica educacional
-* 🗣️ Comunicação e trabalho em equipe
+### Linguagens
+
+- Python
+- Java
+- JavaScript
+- PHP
+- HTML
+- CSS
+
+### Bancos de Dados
+
+- PostgreSQL (em formação)
+- SQL
+
+### Infraestrutura
+
+- Linux
+- Redes
+- Docker (em formação)
+- Git
+
+### Ciência de Dados
+
+- Pandas
+- NumPy
+- TensorFlow
+- OpenCV
+
+### Ferramentas
+
+- VS Code
+- GitHub
+- Zabbix
 
 ---
 
@@ -120,6 +162,13 @@ Tenho **inglês avançado**, com formação pela **Wizard** e certificado de pro
 Concluí formação complementar em **Linux (40 horas)** pelo **Curso em Vídeo (Digirati Informática, Serviços e Telecomunicações LTDA)** e realizo aprendizado contínuo em **Engenharia de Dados**, **PostgreSQL**, **Ciência de Dados** e **Computação em Nuvem**.
 
 Busco constantemente aprofundar meus conhecimentos em **desenvolvimento de software**, **infraestrutura**, **bancos de dados** e **tecnologias aplicadas à pesquisa científica e à bioinformática**.
+
+---
+
+## 📄 Produção Científica
+
+- Artigo publicado na Revista SODEBRÁS
+- Trabalho apresentado no SICITE UTFPR
 
 ---
 
