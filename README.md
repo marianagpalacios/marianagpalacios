@@ -159,7 +159,7 @@ Concluído em 2023
 
 Tenho **inglês avançado**, com formação pela **Wizard** e certificado de proficiência **Pearson**, o que me permite estudar literatura técnica, comunicar-me e colaborar em projetos internacionais.
 
-Concluí formação complementar em **Linux (40 horas)** pelo **Curso em Vídeo (Digirati Informática, Serviços e Telecomunicações LTDA)** e realizo aprendizado contínuo em **Engenharia de Dados**, **PostgreSQL**, **Ciência de Dados** e **Computação em Nuvem**.
+Concluí formação complementar em **Linux (40 horas)** e **Algoritmos e Lógica de Programação (40 horas)** pelo **Curso em Vídeo (Digirati Informática, Serviços e Telecomunicações LTDA)** e realizo aprendizado contínuo em **Engenharia de Dados**, **PostgreSQL**, **Ciência de Dados** e **Computação em Nuvem**.
 
 Busco constantemente aprofundar meus conhecimentos em **desenvolvimento de software**, **infraestrutura**, **bancos de dados** e **tecnologias aplicadas à pesquisa científica e à bioinformática**.
 
