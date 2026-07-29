@@ -162,6 +162,15 @@ Tenho **inglês avançado**, com formação pela **Wizard** e certificado de pro
 
 Concluí formação complementar em **Linux (40 horas)** e **Algoritmos e Lógica de Programação (40 horas)** pelo **Curso em Vídeo (Digirati Informática, Serviços e Telecomunicações LTDA)** e realizo aprendizado contínuo em **Engenharia de Dados**, **PostgreSQL**, **Ciência de Dados** e **Computação em Nuvem**.
 
+Além da graduação, realizo estudos independentes em áreas relacionadas à Engenharia de Software e Bioinformática, incluindo:
+
+- Bioinformática aplicada com Python e Biopython;
+- Manipulação de sequências de DNA e proteínas;
+- Engenharia de Dados e Data Lakes;
+- PostgreSQL e bancos de dados relacionais;
+- Computação em Nuvem;
+- Linux e infraestrutura.
+
 Busco constantemente aprofundar meus conhecimentos em **desenvolvimento de software**, **infraestrutura**, **bancos de dados** e **tecnologias aplicadas à pesquisa científica e à bioinformática**.
 
 ---
