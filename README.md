@@ -132,6 +132,7 @@ Contribuições com revisão de conteúdo, estudos teóricos e correções.
 - NumPy
 - TensorFlow
 - OpenCV
+- R
 
 ### Ferramentas
 
