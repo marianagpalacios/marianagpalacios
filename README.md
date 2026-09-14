@@ -15,13 +15,13 @@
 
 Sou estudante de **Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR)**, com atuação em desenvolvimento e manutenção de sistemas, pesquisa científica e projetos nas áreas de dados e bioinformática.
 
-Atualmente, atuo na **Coordenadoria de Gestão de Tecnologia da Informação (COGETI) da UTFPR — Campus Cornélio Procópio**. Minha experiência na área começou com atividades relacionadas a suporte técnico, infraestrutura e redes e, atualmente, está concentrada na **DIPROSI**, com desenvolvimento e manutenção de sistemas web institucionais.
+Atualmente, atuo na **Coordenadoria de Gestão de Tecnologia da Informação (COGETI) da UTFPR — Campus Cornélio Procópio**. Minha experiência começou com atividades relacionadas a suporte técnico, infraestrutura e redes e, atualmente, está concentrada na **DIPROSI**, com desenvolvimento e manutenção de sistemas web institucionais.
 
-Nesse contexto, tenho contato com **PHP, PostgreSQL, Git/GitLab, Docker, HTML/CSS, Propel ORM, ambientes de desenvolvimento e homologação, depuração, versionamento e manutenção de software existente**, ampliando minha experiência com sistemas utilizados em um ambiente institucional real.
+Nesse contexto, trabalho com tecnologias e práticas como **PHP, PostgreSQL, Git/GitLab, Docker, HTML/CSS, Propel ORM, ambientes de desenvolvimento e homologação, depuração, versionamento e manutenção de software existente**.
 
-Também possuo experiência em **pesquisa científica**, incluindo Iniciação Científica com bolsa CNPq nas áreas de visão computacional, inteligência artificial e aprendizado de máquina. Desenvolvi experimentos com **Python, TensorFlow/Keras e OpenCV**, trabalhando com comparação de arquiteturas de redes neurais e avaliação experimental de modelos.
+Também possuo experiência em **pesquisa científica**, incluindo Iniciação Científica PIBIT/CNPq nas áreas de visão computacional, inteligência artificial e aprendizado de máquina, utilizando **Python, TensorFlow/Keras e OpenCV** para desenvolvimento e avaliação experimental de modelos.
 
-Paralelamente, desenvolvo projetos pessoais voltados a **bioinformática, engenharia de dados e software científico**, buscando aplicar princípios de Engenharia de Software — como testes, documentação, versionamento, integração contínua e reprodutibilidade — a aplicações computacionais de caráter científico.
+Paralelamente, desenvolvo projetos pessoais voltados a **bioinformática, engenharia de dados e software científico**, buscando aplicar princípios de Engenharia de Software — como testes, documentação, versionamento, integração contínua, rastreabilidade e reprodutibilidade — a aplicações computacionais de caráter científico.
 
 Meu objetivo de longo prazo é aprofundar minha formação em **bioinformática e computação científica**, especialmente na aplicação de métodos computacionais à biologia, biodiversidade e pesquisa científica.
 
@@ -31,11 +31,11 @@ Meu objetivo de longo prazo é aprofundar minha formação em **bioinformática 
 
 - 🧬 Bioinformática
 - 🔬 Computação científica
+- 🌿 Computação aplicada à biologia e biodiversidade
 - 📊 Ciência e Engenharia de Dados
 - 🤖 Inteligência Artificial e Machine Learning
 - 💻 Engenharia de Software
 - 🧪 Software científico e pesquisa reproduzível
-- 🌿 Computação aplicada à biologia e biodiversidade
 - 🗄️ Bancos de dados e APIs
 - ⚙️ Desenvolvimento Back-end
 
@@ -52,7 +52,7 @@ Atuação na Coordenadoria de Gestão de Tecnologia da Informação da UTFPR.
 
 #### 💻 Atuação atual — Desenvolvimento de Sistemas / DIPROSI
 
-- Desenvolvimento e manutenção de sistemas web institucionais;
+- desenvolvimento e manutenção de sistemas web institucionais;
 - manutenção e evolução de software existente;
 - desenvolvimento com **PHP**;
 - persistência e consultas com **PostgreSQL/SQL**;
@@ -68,13 +68,13 @@ Atuação na Coordenadoria de Gestão de Tecnologia da Informação da UTFPR.
 - suporte técnico à comunidade acadêmica;
 - apoio à infraestrutura de redes e conectividade;
 - monitoramento e manutenção de ambientes computacionais;
-- suporte a equipamentos e serviços de TI.
+- suporte a equipamentos, servidores e serviços de TI.
 
 ---
 
 ## 🔬 Pesquisa e Extensão
 
-### 🧠 Iniciação Científica — CNPq / UTFPR
+### 🧠 Iniciação Científica — PIBIT/CNPq / UTFPR
 
 Pesquisa envolvendo **visão computacional, inteligência artificial e aprendizado de máquina**, com desenvolvimento de modelos para reconhecimento automático de Equipamentos de Proteção Individual em imagens.
 
@@ -86,10 +86,11 @@ Principais atividades:
 - preparação e pré-processamento de dados;
 - treinamento e validação de modelos;
 - análise de métricas e matrizes de confusão;
-- avaliação experimental de diferentes arquiteturas;
-- apresentação dos resultados no **SICITE UTFPR 2025**.
+- avaliação experimental de diferentes arquiteturas.
 
 A melhor arquitetura convolucional avaliada alcançou **97,22% de acurácia** no conjunto experimental utilizado.
+
+O trabalho resultou no resumo **“Sistema de Visão Computacional para Reconhecimento Inteligente de Objetos”**, publicado nos **Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR — SICITE 2025** e apresentado no evento.
 
 🔗 [Repositório do projeto](https://github.com/marianagpalacios/Sistema-De-Visao-Computacional-Para-Reconhecimento-Inteligente-De-Objetos)
 
@@ -97,7 +98,7 @@ A melhor arquitetura convolucional avaliada alcançou **97,22% de acurácia** no
 
 ### 🧠 Sistemas Computacionais Inteligentes
 
-Participação, em 2024, no projeto de pesquisa **“Sistemas Computacionais Inteligentes — controle avançado com ênfase em Mapas Cognitivos Fuzzy Dinâmicos”**, coordenado na UTFPR.
+Participação, em 2024, no projeto de pesquisa **“Sistemas Computacionais Inteligentes — controle avançado com ênfase em Mapas Cognitivos Fuzzy Dinâmicos”**, na UTFPR.
 
 A experiência integrou minha formação inicial em pesquisa científica e sistemas computacionais inteligentes.
 
@@ -147,7 +148,7 @@ O BioTrace é um projeto pessoal de software científico voltado ao processament
 
 ### Tecnologias
 
-`Python` · `Biopython` · `Streamlit` · `BLAST` · `Pytest` · `GitHub Actions`
+`Python` · `Biopython` · `Streamlit` · `NCBI BLAST+` · `Pytest` · `GitHub Actions`
 
 O projeto prioriza **reprodutibilidade computacional, rastreabilidade das análises e explicitação das limitações científicas dos dados utilizados**.
 
@@ -194,9 +195,9 @@ O projeto foi desenvolvido com foco em **qualidade de dados, rastreabilidade, se
 
 ---
 
-## 🦺 Sistema de Visão Computacional para Reconhecimento de EPIs
+## 🦺 Sistema de Visão Computacional para Reconhecimento Inteligente de Objetos
 
-Projeto desenvolvido no contexto de **Iniciação Científica CNPq** para investigar modelos de aprendizado de máquina aplicados ao reconhecimento de Equipamentos de Proteção Individual.
+Projeto desenvolvido no contexto da **Iniciação Científica PIBIT/CNPq** para investigar modelos de aprendizado de máquina aplicados ao reconhecimento de Equipamentos de Proteção Individual.
 
 Foram comparadas diferentes arquiteturas de:
 
@@ -323,11 +324,11 @@ Minha formação acadêmica está sendo complementada por estudos e projetos nas
 
 # 📄 Produção científica
 
-### Artigo científico
+## Artigo em periódico
 
-**Avaliação de Desempenho entre Modelos Neurais Convolucionais para Classificação do Oxford-IIIT Pet Dataset**
+**Avaliação de desempenho entre modelos neurais convolucionais para classificação do Oxford-IIIT Pet Dataset**
 
-Revista **SODEBRAS**, v. 20, n. 223, 2025.
+Revista **SODEBRÁS**, v. 20, n. 223, 2025.
 
 **Autores:** Héctor Dorrighello Giacon, Rodrigo Henrique Cunha Palácios, Mariana Gasparotto Palácios, Márcio Mendonça e André Roberto Ortoncelli.
 
@@ -335,11 +336,15 @@ Revista **SODEBRAS**, v. 20, n. 223, 2025.
 
 ---
 
-### Apresentação científica
+## Trabalho publicado em anais
 
-**Sistema Inteligente para Reconhecimento de Objetos de EPI Usando Visão Computacional**
+**Sistema de Visão Computacional para Reconhecimento Inteligente de Objetos**
 
-Trabalho apresentado no **SICITE — Seminário de Iniciação Científica e Tecnológica da UTFPR**, em 2025.
+Resumo publicado nos **Anais do XXX Seminário de Iniciação Científica e Tecnológica da UTFPR — SICITE 2025** e apresentado no evento.
+
+**Autores:** Mariana Palácios e Marcio Mendonça.
+
+**ISBN dos anais:** 978-65-272-1846-3
 
 ---
 
