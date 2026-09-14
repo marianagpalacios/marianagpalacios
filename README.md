@@ -371,7 +371,6 @@ Tenho especial interesse em:
 - aprofundar conhecimentos em estatística e ciência de dados;
 - participar de projetos de pesquisa e desenvolvimento científico;
 - contribuir com projetos open source;
-- seguir formação acadêmica em nível de mestrado e doutorado.
 
 ---
 
