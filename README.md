@@ -15,7 +15,7 @@
 
 Sou estudante de **Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR)**, com atuação em desenvolvimento e manutenção de sistemas, pesquisa científica e projetos nas áreas de dados e bioinformática.
 
-Atualmente, desenvolvo meu **Trabalho de Conclusão de Curso (TCC)** na área de bioinformática, sob orientação do Prof. Dr. Robson Parmezan Bonidia. A pesquisa investiga técnicas de representação de sequências biológicas, comparando descritores tradicionais, embeddings obtidos por modelos de linguagem e representações híbridas para DNA, RNA e proteínas. O trabalho está associado à proposta de desenvolvimento da ferramenta **Anhuma**.
+Atualmente, desenvolvo meu **Trabalho de Conclusão de Curso (TCC)** na área de bioinformática. A pesquisa investiga técnicas de representação de sequências biológicas, comparando descritores tradicionais, embeddings obtidos por modelos de linguagem e representações híbridas para DNA, RNA e proteínas. O trabalho está associado à proposta de desenvolvimento da ferramenta **Anhuma**.
 
 Também atuo na **Coordenadoria de Gestão de Tecnologia da Informação (COGETI) da UTFPR — Campus Cornélio Procópio**. Minha experiência começou com atividades relacionadas a suporte técnico, infraestrutura e redes e, atualmente, está concentrada na **DIPROSI**, com desenvolvimento e manutenção de sistemas web institucionais.
 
