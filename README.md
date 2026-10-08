@@ -254,12 +254,12 @@ O projeto foi desenvolvido com foco em **qualidade de dados, rastreabilidade, se
 
 ---
 
-## 🎓 Japiim Escola — Plataforma de Letramento em Inteligência Artificial
+## 🎓 Japiim Educação — Plataforma de Letramento em Inteligência Artificial
 
 **Projeto acadêmico colaborativo — UTFPR**  
 **2026 — em desenvolvimento**
 
-O **Japiim Escola**, também desenvolvido no contexto do projeto Japiim Educadores, é uma plataforma educacional voltada ao letramento em Inteligência Artificial, com foco na formação de educadores.
+O **Japiim Escola**, também desenvolvido no contexto do projeto Japiim Edução, é uma plataforma educacional voltada ao letramento em Inteligência Artificial, com foco na formação de educadores.
 
 O projeto é desenvolvido no contexto da disciplina de Oficina de Integração do curso de Engenharia de Software da UTFPR.
 
@@ -308,7 +308,6 @@ A proposta busca oferecer experiências de aprendizagem acessíveis e contextual
 
 **Status:** projeto em desenvolvimento. As funcionalidades descritas correspondem ao escopo planejado e não representam uma versão finalizada da plataforma.
 
-**Repositório:** privado, mantido no ambiente de desenvolvimento da equipe.
 
 ---
 
