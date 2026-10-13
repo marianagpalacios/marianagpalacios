@@ -163,17 +163,27 @@ A experiência integrou minha formação inicial em pesquisa científica e siste
 
 ### 👩‍💻 Meninas Digitais UTFPR-CP
 
-Participação em projeto de extensão voltado ao incentivo da presença de meninas e mulheres nas áreas de **Ciência, Tecnologia, Engenharia e Matemática (CTEM)**.
+**Projeto de extensão — UTFPR, Campus Cornélio Procópio | Abril de 2026 — atual**
+
+Integrante do projeto parceiro **Meninas Digitais UTFPR-CP**, vinculado ao Programa Meninas Digitais da Sociedade Brasileira de Computação (SBC), voltado ao incentivo da participação de meninas e mulheres nas áreas de **Ciência, Tecnologia, Engenharia e Matemática (CTEM)**.
 
 #### Atividades
 
-- mentoria de estudantes;
-- planejamento e organização de oficinas de robótica;
-- elaboração de materiais didáticos e tutoriais;
-- apoio a atividades educacionais;
-- divulgação científica e tecnológica;
-- participação em ações de extensão junto à comunidade;
-- incentivo ao desenvolvimento de competências digitais e tecnológicas.
+- pesquisa, elaboração e organização de apostilas, tutoriais e materiais didáticos para oficinas de letramento digital e robótica;
+- mentoria de estudantes, incluindo atividades no programa **Technovation Girls**;
+- planejamento, apoio e instrução em oficinas de robótica para estudantes da educação básica;
+- participação em ações de extensão, educação e divulgação científica e tecnológica.
+
+#### 🤖 Robótica para Meninas (RPM)
+
+Ação vinculada ao projeto **Meninas Digitais**, com ciclo de oficinas previsto até **28 de novembro de 2026**.
+
+Em **10 de outubro de 2026**, atuei em duas atividades:
+
+- **Ensino Fundamental — mentoria:** orientação das participantes na montagem de veículos robóticos com kits LEGO e sensores ultrassônicos para detecção e desvio de obstáculos;
+- **Ensino Médio — oficina ministrada:** introdução ao Arduino, fundamentos de programação e eletrônica básica, com construção prática de um semáforo utilizando Arduino.
+
+A atuação articula **mentoria, ensino de programação, desenvolvimento de materiais educacionais e extensão universitária**, promovendo o contato de meninas com computação e robótica.
 
 ---
 
