@@ -17,6 +17,12 @@ Sou estudante de **Engenharia de Software na Universidade Tecnológica Federal d
 
 Atualmente, desenvolvo meu **Trabalho de Conclusão de Curso (TCC)** na área de bioinformática. A pesquisa investiga técnicas de representação de sequências biológicas, comparando descritores tradicionais, embeddings obtidos por modelos de linguagem e representações híbridas para DNA, RNA e proteínas. O trabalho está associado à proposta de desenvolvimento da ferramenta **Anhuma**.
 
+Atualmente, também desenvolvo atividades de **Iniciação Científica em Bioinformática**, com bolsa vinculada à **Universidade de São Paulo (USP)** e orientação do **Prof. Dr. Robson Parmezan Bonidia**, na **UTFPR - Campus Cornélio Procópio**.
+
+A pesquisa envolve a investigação de representações computacionais de sequências biológicas, modelos de linguagem, revisão sistemática da literatura e planejamento de avaliações experimentais reproduzíveis.
+
+Meu objetivo é consolidar uma formação interdisciplinar em **Engenharia de Software, Bioinformática e Computação Científica**, com perspectiva de continuidade na pesquisa acadêmica.
+
 Também atuo na **Coordenadoria de Gestão de Tecnologia da Informação (COGETI) da UTFPR — Campus Cornélio Procópio**. Minha experiência começou com atividades relacionadas a suporte técnico, infraestrutura e redes e, atualmente, está concentrada na **DIPROSI**, com desenvolvimento e manutenção de sistemas web institucionais.
 
 Nesse contexto, trabalho com tecnologias e práticas como **PHP, PostgreSQL, Git/GitLab, Docker, HTML/CSS, JavaScript, Propel ORM, ambientes de desenvolvimento e homologação, depuração, versionamento e manutenção de software existente**.
@@ -126,6 +132,55 @@ A proposta busca avaliar o desempenho das diferentes representações em tarefas
 Seu objetivo será apoiar a avaliação comparativa de diferentes técnicas de representação de sequências biológicas, com atenção à reprodutibilidade experimental, rastreabilidade e avaliação de desempenho.
 
 **Status:** pesquisa e planejamento metodológico em andamento. A implementação e a validação experimental da ferramenta ainda não estão concluídas.
+
+---
+
+### 🧬 Iniciação Científica — Bioinformática
+
+**2026 — em andamento**
+
+**Financiamento:** Bolsa vinculada à Universidade de São Paulo (USP)
+
+**Orientação:** Prof. Dr. Robson Parmezan Bonidia — UTFPR
+
+**Dedicação:** 20 horas semanais
+
+Pesquisa científica voltada à investigação de técnicas computacionais para representação de sequências biológicas, com foco em DNA, RNA e proteínas.
+
+O estudo contempla descritores tradicionais, embeddings obtidos por modelos de linguagem biológicos e representações híbridas.
+
+#### Objetivos da pesquisa
+
+- Investigar métodos computacionais de representação
+  de sequências biológicas;
+- Estudar modelos de linguagem aplicados a DNA, RNA
+  e proteínas;
+- Analisar estratégias de geração de embeddings;
+- Investigar a combinação de descritores tradicionais
+  com representações aprendidas;
+- Planejar avaliações comparativas de desempenho
+  preditivo e custo computacional;
+- Aplicar princípios de reprodutibilidade e
+  rastreabilidade à pesquisa científica.
+
+#### Atividades em desenvolvimento
+
+- Revisão estruturada da literatura científica;
+- Participação no planejamento de uma revisão
+  sistemática da literatura em colaboração com
+  outro pesquisador;
+- Investigação de ferramentas e métodos de
+  feature engineering;
+- Estudo de modelos de linguagem para
+  sequências biológicas;
+- Análise preliminar de viabilidade computacional;
+- Planejamento metodológico e experimental;
+- Documentação das decisões científicas.
+
+**Projeto relacionado:** Anhuma — Biological Sequence
+Representation Research.
+
+**Status:** Pesquisa em andamento. A avaliação experimental completa e a validação científica ainda não foram concluídas.
 
 ---
 
